@@ -1,0 +1,8 @@
+{
+  "name": "Retail Intel Dashboard",
+  "description": "Interactive retail analytics platform for tracking KPIs, visualizing sales trends, and generating automated business insights from uploaded data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
